@@ -262,7 +262,7 @@ var pos=Math.floor(Math.random() * 91) + 1;
                     renderQuestion();}
                 else
                 { 
-                    confirm("oops wrong answer...." window.location.href = 'bln.html')
+                    confirm("oops wrong answer...." window.location.href = 'Brain-Of-TEQTISbln.html')
                    
 
                 
