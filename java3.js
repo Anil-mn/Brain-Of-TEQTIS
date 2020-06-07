@@ -358,7 +358,7 @@ var questions = [
                     /* pos = 0;
                     correct = 0;
                     return false; */
-                   // window.location.href = "./quiz2.html";
+                   // window.location.href = "quiz2.html";
                }
                 if(a<=5)
                 {
@@ -394,7 +394,7 @@ var questions = [
                 else
                 { 
                     alert("oops wrong answer....")
-                    window.location.href = '/bln.html';
+                    window.location.href = 'bln.html';
 
                 
                 }
