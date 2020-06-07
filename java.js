@@ -263,7 +263,7 @@ var pos=Math.floor(Math.random() * 91) + 1;
                 else
                 { 
                     alert("oops wrong answer....")
-                    window.location.href = '/bln.html';
+                    window.location.href = 'bln.html';
 
                 
                 }
