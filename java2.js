@@ -1111,7 +1111,7 @@ var questions = [
                     /* pos = 0;
                     correct = 0;
                     return false; */
-                    window.location.href = "./quiz3.html";
+                    window.location.href = "quiz3.html";
                }
                 if(a<=5)
                 {
